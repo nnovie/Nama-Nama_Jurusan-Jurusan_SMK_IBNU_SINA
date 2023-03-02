@@ -9,16 +9,19 @@ head>
 <table border ="1">
 <tr>
   <th>1</th>
-  <th>2</th>
-  <th>3</th>
-  <th>4</th>
-  <th>5</th>
+  <th>Bidang Keahlian Bisnis dan Manajemen (Perkantoran)</th>
 </tr>
    <tr>
-     <th>Bidang Keahlian Bisnis dan Manajemen (Perkantoran)</th>
+     <th>2</th>
      <th>Bidang Keahlian Bisnis dan Pemasaran (Marketing)</th>
+ </tr>
+    <tr>
      <th>Bidang Keahlian Akuntansi dan Keuangan (Akuntansi)</th>
+  </tr>
+     <tr>
      <th>Bidang Keahlian Teknologi Informasi dan Komunikasi (Rekayasa Perangkat Lunak)</th>
+  </tr>
+     <tr>
      <th>Bidang Keahlian Teknologi dan Rekayasa (Otomatif)</th>
 </tr>
 
