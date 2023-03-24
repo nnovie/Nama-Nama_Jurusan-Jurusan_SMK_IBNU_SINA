@@ -7,6 +7,11 @@ head>
 </head>
 <body>
 <table border ="1">
+        <tr style="background-color: limegreen;"
+<tr>
+  <th>No</th>
+  <th>Nama Jurusan</th>
+</tr>
 <tr>
   <th>1</th>
   <th>Bidang Keahlian Bisnis dan Manajemen (Perkantoran)</th>
